@@ -1,6 +1,7 @@
 # 3rd Year Internship Project
 
 This repository contains the codebase for my 3rd-year internship project. 
+Link - https://skjoo5.github.io/3rd-year-internship-project/
 
 ## Project Structure
 
